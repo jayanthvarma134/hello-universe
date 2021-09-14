@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="hello_universe",
-    version="0.0.1",
+    version="0.0.4",
     author="M JAYANTH VARMA",
     author_email="jayanthvarma134@gmail.com",
     description="A rookie pypi package to print Hello Universe",

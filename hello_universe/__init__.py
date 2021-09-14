@@ -1,1 +1,1 @@
-'name = "hello_universe"'
+from hello_universe.start import call
